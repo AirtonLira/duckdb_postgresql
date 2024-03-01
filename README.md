@@ -1,10 +1,10 @@
-# Análise Integrada de DuckDB e PostgreSQL para Desenvolvimento Econômico
+# Análise Integrada de DuckDB e PostgreSQL com dataset de Desenvolvimento Econômico
 
 ## Descrição
 Este projeto de notebook Jupyter foca na análise de dados do Escritório do Prefeito de Planejamento e Desenvolvimento Econômico, utilizando uma abordagem integrada que combina DuckDB e PostgreSQL. O objetivo é demonstrar como esses dois sistemas de gerenciamento de banco de dados podem ser usados em conjunto para análises de dados eficientes e insights de desenvolvimento econômico.
 
 ## Principais Características
-- **Análise de Dados Econômicos**: Análise de conjuntos de dados relevantes para entender as tendências e padrões no desenvolvimento econômico.
+- **Análise de Dados Econômicos**: Análise de conjuntos de dados relevantes de um dataset público com alguns tratamento de dados para evidenciar a facilidade de integração do duckdb com PostgresSQL.
 - **Integração DuckDB e PostgreSQL**: Demonstração da utilização conjunta de DuckDB para análise de dados em memória e PostgreSQL para armazenamento de dados persistente, proporcionando uma solução robusta para análise de dados.
 - **Junção de Dados**: Uso de técnicas de junção de dados para combinar informações de diferentes fontes e maximizar os insights extraídos.
 
